@@ -1,0 +1,6 @@
+1,Ila,Opalova,896224
+2,Marina,Petrova,458755
+3,Stepan,Malychev,7896541
+4,Marina,Stupka,4444
+5,Michail,Pupkin,5555
+6,uppdate,uppdate,6655
